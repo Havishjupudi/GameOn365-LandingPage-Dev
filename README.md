@@ -1,3 +1,11 @@
+Certainly! Here's the corrected YAML front matter along with the Markdown content for your GameOn365 Landing Page:
+
+```markdown
+---
+layout: post
+title: "GameOn365 Landing Page"
+description: "Creating an engaging landing page for the GameOn365 platform."
+author: "Havish Jupudi"
 ---
 
 # GameOn365 Landing Page
@@ -50,27 +58,6 @@ If you have any questions, feedback, or suggestions, please feel free to reach o
 - **Email**: havish.jupudi@gmail.com
 
 Thank you for visiting the GameOn365 Landing Page project repository!
+```
 
----
-
-
-## Desktop view Screenshots
-
-![Screenshot 2024-07-07 151045](https://github.com/Havishjupudi/GameOn365-LandingPage-Dev/assets/147229053/df7b72b0-11a6-4cfa-a3c9-a02b4f39db3c)
-
-![Screenshot 2024-07-07 151034](https://github.com/Havishjupudi/GameOn365-LandingPage-Dev/assets/147229053/988acb6a-3348-4246-b97e-789f600954b1)
-
-![Screenshot 2024-07-07 151021](https://github.com/Havishjupudi/GameOn365-LandingPage-Dev/assets/147229053/2ebaa7ab-4e56-4e8a-aa34-83622dc8c393)
-
-![Screenshot 2024-07-07 151009](https://github.com/Havishjupudi/GameOn365-LandingPage-Dev/assets/147229053/30d13c46-cffd-4bc9-ac5a-a6272a20b898)
-
-![Screenshot 2024-07-07 150958](https://github.com/Havishjupudi/GameOn365-LandingPage-Dev/assets/147229053/5326fc9d-b06e-4c41-99c2-b481356f5ae2)
-
-## Mobile view Screenshots
-
-
-![Screenshot 2024-07-07 152715](https://github.com/Havishjupudi/GameOn365-LandingPage-Dev/assets/147229053/08b65ad5-5015-4960-9123-0696597fe1b8)            ![Screenshot 2024-07-07 152748](https://github.com/Havishjupudi/GameOn365-LandingPage-Dev/assets/147229053/579a69ec-09c0-4564-90a5-4c3398229a69)
-            ![Screenshot 2024-07-07 152732](https://github.com/Havishjupudi/GameOn365-LandingPage-Dev/assets/147229053/17f7fc85-8545-480c-9a40-1de6230a9a89)
-
-
----
+You can copy and paste this entire block into your Markdown file. Just replace `"your_username"` with your GitHub username in the `git clone` command under the "Getting Started" section. This YAML front matter and Markdown content should now be correctly structured for your GameOn365 Landing Page project.
