@@ -56,6 +56,7 @@ If you have any questions, feedback, or suggestions, please feel free to reach o
 
 - **Name**: Havish Jupudi
 - **Email**: havish.jupudi@gmail.com
+- **Havish Jupudi** - [GitHub](https://github.com/Havishjupudi)
 
 ### Desktop view Screenshots
 
