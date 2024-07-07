@@ -1,5 +1,9 @@
 Certainly! Here's the corrected YAML front matter along with the Markdown content for your GameOn365 Landing Page:
 
+### Live Demo
+
+Check out the live version of the GameOn365 Landing Page: [GameOn365 Live Site](https://havishjupudi.github.io/GameOn365-LandingPage-Dev/)
+
 ```markdown
 ---
 title: "GameOn365 Landing Page"
@@ -11,9 +15,6 @@ author: "Havish Jupudi"
 
 Welcome to the GameOn365 Landing Page repository. This project aims to create an engaging and informative landing page for the GameOn365 platform, dedicated to providing gamers with the latest news, reviews, and community features.
 
-### Live Demo
-
-Check out the live version of the GameOn365 Landing Page: [GameOn365 Live Site](https://havishjupudi.github.io/GameOn365-LandingPage-Dev/)
 
 ### Project Overview
 
