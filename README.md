@@ -1,6 +1,6 @@
 Certainly! Here's the corrected YAML front matter along with the Markdown content for your GameOn365 Landing Page:
 
-### Live Demo
+### Live Host
 
 Check out the live version of the GameOn365 Landing Page: [GameOn365 Live Site](https://havishjupudi.github.io/GameOn365-LandingPage-Dev/)
 
