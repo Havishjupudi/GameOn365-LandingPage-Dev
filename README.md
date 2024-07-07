@@ -2,7 +2,6 @@ Certainly! Here's the corrected YAML front matter along with the Markdown conten
 
 ```markdown
 ---
-layout: post
 title: "GameOn365 Landing Page"
 description: "Creating an engaging landing page for the GameOn365 platform."
 author: "Havish Jupudi"
@@ -60,4 +59,3 @@ If you have any questions, feedback, or suggestions, please feel free to reach o
 Thank you for visiting the GameOn365 Landing Page project repository!
 ```
 
-You can copy and paste this entire block into your Markdown file. Just replace `"your_username"` with your GitHub username in the `git clone` command under the "Getting Started" section. This YAML front matter and Markdown content should now be correctly structured for your GameOn365 Landing Page project.
