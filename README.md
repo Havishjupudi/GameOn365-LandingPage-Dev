@@ -56,19 +56,21 @@ Thank you for visiting the GameOn365 Landing Page project repository!
 
 ## Desktop view Screenshots
 
-![Screenshot 2024-07-07 150958](https://github.com/Havishjupudi/GameOn365-LandingPage-Dev/assets/147229053/a2705185-7a1c-4fad-82b6-6afec8e15bfa)
+![Screenshot 2024-07-07 151045](https://github.com/Havishjupudi/GameOn365-LandingPage-Dev/assets/147229053/df7b72b0-11a6-4cfa-a3c9-a02b4f39db3c)
 
-![Screenshot 2024-07-07 151009](https://github.com/Havishjupudi/GameOn365-LandingPage-Dev/assets/147229053/351dbc40-7bfe-4a26-8008-232ce1c69aa0)
+![Screenshot 2024-07-07 151034](https://github.com/Havishjupudi/GameOn365-LandingPage-Dev/assets/147229053/988acb6a-3348-4246-b97e-789f600954b1)
 
-![Screenshot 2024-07-07 151021](https://github.com/Havishjupudi/GameOn365-LandingPage-Dev/assets/147229053/be2f673f-9572-4e46-95c0-eb54ef22eea5)
+![Screenshot 2024-07-07 151021](https://github.com/Havishjupudi/GameOn365-LandingPage-Dev/assets/147229053/2ebaa7ab-4e56-4e8a-aa34-83622dc8c393)
 
-![Screenshot 2024-07-07 151034](https://github.com/Havishjupudi/GameOn365-LandingPage-Dev/assets/147229053/7c4b04be-21d8-4c33-b6a1-023e047ff7c7)
+![Screenshot 2024-07-07 151009](https://github.com/Havishjupudi/GameOn365-LandingPage-Dev/assets/147229053/30d13c46-cffd-4bc9-ac5a-a6272a20b898)
 
-![Screenshot 2024-07-07 151045](https://github.com/Havishjupudi/GameOn365-LandingPage-Dev/assets/147229053/95ab22a6-1aa1-4df5-9888-5688be22e36a)
+![Screenshot 2024-07-07 150958](https://github.com/Havishjupudi/GameOn365-LandingPage-Dev/assets/147229053/5326fc9d-b06e-4c41-99c2-b481356f5ae2)
 
 ## Mobile view Screenshots
 
-![Screenshot 2024-07-07 152715](https://github.com/Havishjupudi/GameOn365-LandingPage-Dev/assets/147229053/d1c42745-e231-43ef-a3d2-f686611edb0d) ![Screenshot 2024-07-07 152732](https://github.com/Havishjupudi/GameOn365-LandingPage-Dev/assets/147229053/1e0c7454-11b2-4845-8bc2-ba7fa99af762) ![Screenshot 2024-07-07 152748](https://github.com/Havishjupudi/GameOn365-LandingPage-Dev/assets/147229053/207832e2-b956-45f6-9e33-5b25a9bfff66)
+
+![Screenshot 2024-07-07 152715](https://github.com/Havishjupudi/GameOn365-LandingPage-Dev/assets/147229053/08b65ad5-5015-4960-9123-0696597fe1b8)            ![Screenshot 2024-07-07 152748](https://github.com/Havishjupudi/GameOn365-LandingPage-Dev/assets/147229053/579a69ec-09c0-4564-90a5-4c3398229a69)
+            ![Screenshot 2024-07-07 152732](https://github.com/Havishjupudi/GameOn365-LandingPage-Dev/assets/147229053/17f7fc85-8545-480c-9a40-1de6230a9a89)
 
 
 ---
