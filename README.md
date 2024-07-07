@@ -56,6 +56,24 @@ If you have any questions, feedback, or suggestions, please feel free to reach o
 - **Name**: Havish Jupudi
 - **Email**: havish.jupudi@gmail.com
 
+### Desktop view Screenshots
+
+![Screenshot 2024-07-07 151045](https://github.com/Havishjupudi/GameOn365-LandingPage-Dev/assets/147229053/f48fbe1f-f1eb-4eed-b6aa-50fdf333b3fa)
+
+![Screenshot 2024-07-07 151034](https://github.com/Havishjupudi/GameOn365-LandingPage-Dev/assets/147229053/42d0d5d8-1ef2-4926-96c4-2503236e0a35)
+
+![Screenshot 2024-07-07 151021](https://github.com/Havishjupudi/GameOn365-LandingPage-Dev/assets/147229053/5b52bae3-173d-418c-98f7-fbf93cc3d48e)
+
+![Screenshot 2024-07-07 151009](https://github.com/Havishjupudi/GameOn365-LandingPage-Dev/assets/147229053/1cb0b327-52f6-4ceb-8029-ca65963dd3bd)
+
+![Screenshot 2024-07-07 150958](https://github.com/Havishjupudi/GameOn365-LandingPage-Dev/assets/147229053/f500bdb0-fa6f-4576-aa6a-e4c795d9206d)
+
+### Mobile view Screenshots
+
+![Screenshot 2024-07-07 152715](https://github.com/Havishjupudi/GameOn365-LandingPage-Dev/assets/147229053/28944ff1-5c09-475d-9b33-517c674b8606)   ![Screenshot 2024-07-07 152748](https://github.com/Havishjupudi/GameOn365-LandingPage-Dev/assets/147229053/4df7ff70-107d-4791-b294-0a8f1dead5bf)
+![Screenshot 2024-07-07 152732](https://github.com/Havishjupudi/GameOn365-LandingPage-Dev/assets/147229053/8ff307f5-efb2-40c4-8199-608d643c8c3c)
+
+
 Thank you for visiting the GameOn365 Landing Page project repository!
 ```
 
